@@ -1,0 +1,8 @@
+prefix=/home/mahoma/action2_ros_ws/install
+
+Name: action2_pkg
+Description: Description of action2_pkg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

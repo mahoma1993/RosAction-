@@ -1,0 +1,19 @@
+(cl:defpackage action2_pkg-msg
+  (:use )
+  (:export
+   "<DEMOACTION>"
+   "DEMOACTION"
+   "<DEMOACTIONFEEDBACK>"
+   "DEMOACTIONFEEDBACK"
+   "<DEMOACTIONGOAL>"
+   "DEMOACTIONGOAL"
+   "<DEMOACTIONRESULT>"
+   "DEMOACTIONRESULT"
+   "<DEMOFEEDBACK>"
+   "DEMOFEEDBACK"
+   "<DEMOGOAL>"
+   "DEMOGOAL"
+   "<DEMORESULT>"
+   "DEMORESULT"
+  ))
+

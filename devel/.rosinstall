@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mahoma/action2_ros_ws/devel/setup.sh

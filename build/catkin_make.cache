@@ -1,0 +1,2 @@
+action2_pkg
+-DCATKIN_DEVEL_PREFIX=/home/mahoma/action2_ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mahoma/action2_ros_ws/install -G Unix Makefiles
